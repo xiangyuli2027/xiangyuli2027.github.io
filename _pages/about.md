@@ -20,7 +20,7 @@ Berkeley, CA, USA.
 Aug. 2018 – Jul. 2022 <br/>
 Beijing Jiaotong University, Beijing, China
 > * *GPA*: 3.86/4.0 
-> * *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traf-fic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
+> * *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traffic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
 
 ## Publication & Manuscripts
 1. ***Li, X.Y***., Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review).
@@ -33,10 +33,10 @@ Beijing Jiaotong University, Beijing, China
 Research Assistant to *Professor Gabriel Gomes* <br/>
 Aug. 2022 – Present <br/>
 **Ongoing Project**: Traffic Lights control and path commendation Based on Reinforcement Learning
-> * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
-> * Proposed a traffic light control algorithm based on the deep Q-learning network (DQN) and Actor-to-critic (A2C) 
-> * Proposed an RL agent using A2C to provide real-time path recommendations to commuters on which travel modes and routes to use
-> * Trained two agents with collaborative designs to minimize the generalized system cost under PM2.5 exposure
+* Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
+* Proposed a traffic light control algorithm based on the deep Q-learning network (DQN) and Actor-to-critic (A2C) 
+* Proposed an RL agent using A2C to provide real-time path recommendations to commuters on which travel modes and routes to use
+* Trained two agents with collaborative designs to minimize the generalized system cost under PM2.5 exposure
 
 ***IN* Hong Kong Polytechnic University, Dept. of Electronic and Information Engineering** <br/>
 May. 2022 – Aug. 2022 <br/>
@@ -52,7 +52,7 @@ Dec. 2020 – Nov. 2022 <br/>
 > *	Designed a system composed of two ring-radial cities connected by a high-speed rail with changing congestion
 > *	Derived the Nash Equilibrium (NE) state of people’s work and commute pattern distributions under different government interventions
 > *	Proved several theorems such as no big city residents will choose to work in small city under the NE
-> *	Provided policy implications for government to maximize social welfare based on a real-world two-city sys-tem
+> *	Provided policy implications for government to maximize social welfare based on a real-world two-city system
 > *	Completed two papers in Transportation research part E and Journal of Tsinghua University.
 
 ***IN* Beijing Jiaotong University, Dept. of Transportation Engineering** <br/>
