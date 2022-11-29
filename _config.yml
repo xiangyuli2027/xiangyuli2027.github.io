@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "profile.png"
+  avatar           : "pic.jpg"
   bio              : *description
   location         : "Berkeley, CA, USA"
   employer         :
