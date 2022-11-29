@@ -12,13 +12,10 @@ Hi, I'm Xiangyu Li.  ....
 
 ## Education
 **Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023 (expected)</span>  <br/> 
-**Master of Transportation Engineering** <br/>
-Aug. 2022 – Jul. 2023 (expected) <br/>
 University of California, Berkeley <br/>
 Berkeley, CA, USA. 
 
-**Bachelor of Transportation Engineering**  <br/>
-Aug. 2018 – Jul. 2022 <br/>
+**Bachelor of Transportation Engineering** <span style="float:right;">Aug. 2018 – Jul. 2022</span>  <br/> 
 Beijing Jiaotong University, Beijing, China
 * *GPA*: 3.86/4.0 
 * *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traffic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
