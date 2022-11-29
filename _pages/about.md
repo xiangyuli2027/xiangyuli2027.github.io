@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiangyu Li.  ....
+Hi, I'm Xiangyu Li. My research interest is Intelligent transportation systems,Reinforcement learning,Driving behavior,transportation economics
 
 ## Education
 **Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023 (expected)</span>  <br/> 
