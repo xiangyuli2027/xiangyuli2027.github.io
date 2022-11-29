@@ -19,8 +19,8 @@ Berkeley, CA, USA.
 **Bachelor of Transportation Engineering**  <br/>
 Aug. 2018 – Jul. 2022 <br/>
 Beijing Jiaotong University, Beijing, China
-* *GPA*: 3.86/4.0 
-* *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traf-fic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
+> * *GPA*: 3.86/4.0 
+> * *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traf-fic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
 
 ## Publication & Manuscripts
 1. ***Li, X.Y***., Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review).
@@ -49,7 +49,7 @@ May. 2022 – Aug. 2022 <br/>
 Research Assistant to *Professor Mark Hansen & Professor Sida Luo* <br/>
 Dec. 2020 – Nov. 2022 <br/>
 **Project**: Game Theoretical Analysis for a Two-city Economic System
-*	Designed a system composed of two ring-radial cities connected by a high-speed rail with changing congestion
+> *	Designed a system composed of two ring-radial cities connected by a high-speed rail with changing congestion
 > *	Derived the Nash Equilibrium (NE) state of people’s work and commute pattern distributions under different government interventions
 > *	Proved several theorems such as no big city residents will choose to work in small city under the NE
 > *	Provided policy implications for government to maximize social welfare based on a real-world two-city sys-tem
@@ -61,7 +61,7 @@ Dec. 2021 – May. 2022	 <br/>
 **Project**: Individual Particulate Matter Exposure for Urban Commuters
 > *	Collected inhaled PM2.5 per second with a portable monitor under different travel modes (over 100 hours)
 > *	Constructed the quantitative model of particulate matter exposure level
-*	Analyzed the exposure characteristics of particulate matter in different populations
+> *	Analyzed the exposure characteristics of particulate matter in different populations
 > *	Predicted PM2.5 data and build a simulation scenario to put forward suggestions for government
 > *	Wrote a thesis, rated as an Outstanding Undergraduate Graduation Thesis (top 5%)
 
