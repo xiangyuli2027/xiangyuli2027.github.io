@@ -11,6 +11,7 @@ redirect_from:
 Hi, I'm Xiangyu Li.  ....
 
 ## Education
+**Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023 (expected)</span>  <br/> 
 **Master of Transportation Engineering** <br/>
 Aug. 2022 – Jul. 2023 (expected) <br/>
 University of California, Berkeley <br/>
