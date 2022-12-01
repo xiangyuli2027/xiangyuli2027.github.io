@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiangyu Li. My research interest is Intelligent transportation systems,Reinforcement learning,Driving behavior,transportation economics
+Hi, I'm Xiangyu Li. My research interest is Intelligent transportation systems, Reinforcement learning, Driving behavior, transportation economics
 
 ## Education
 **Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023 (expected)</span>  <br/> 
 University of California, Berkeley <br/>
 Berkeley, CA, USA. 
+*	*Core Courses*: Operation of Transportation Facilities (midterm: 45/50, rank 1/50)
+System Analysis in Transportation (midterm: 96/100)
+
 
 **Bachelor of Transportation Engineering** <span style="float:right;">Aug. 2018 – Jul. 2022</span>  <br/> 
 Beijing Jiaotong University, Beijing, China
-* *GPA*: 3.86/4.0 
-* *Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traffic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
+*	*GPA*: 3.86/4.0, Rank 7/383 (Top 2%)
+*	*Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traf-fic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
+
 
 ## Publication & Manuscripts
 1. ***Li, X.Y***., Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review). [pdf](./../files/paper1.pdf)
@@ -27,43 +31,47 @@ Beijing Jiaotong University, Beijing, China
 4. ***Li, X.Y***., & Xie, M. (2021). Short-term passenger volume forecast and model analysis of Beijing public transport. In *Fifth International Conference on Traffic Engineering and Transportation System (ICTETS 2021)* (Vol. 12058, pp. 1423-1429). SPIE. [pdf](./../files/paper4.pdf)
 
 ## Research Experience
-- ***IN* University of California, Berkeley, Dept. of Mechanical Engineering** <br/>
-Research Assistant to *Professor Gabriel Gomes* <br/>
+- **Research Assistant to *Professor Gabriel Gomes*** <br/>
 Aug. 2022 – Present <br/>
-**Ongoing Project**: Traffic Lights control and path commendation Based on Reinforcement Learning
+University of California, Berkeley, Dept. of Mechanical Engineering <br/>
+**Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
 
-- ***IN* Hong Kong Polytechnic University, Dept. of Electronic and Information Engineering** <br/>
-May. 2022 – Aug. 2022 <br/>
-**Ongoing project**: Cyber-Physical System and Deep Reinforcement Learning-Enabled Driving Behaviour Study in Connected and Autonomous Driving System
+- **Research Assistant in *Intelligent Transport Systems lab*** <br/>
+May. 2022 – Present <br/>
+Hong Kong Polytechnic University, Dept. of Electronic and Information Engineering <br/>
+**Ongoing project**: Cyber-Physical System and Reinforcement Learning-Enabled Autonomous Driving Behavior
 
-- ***IN* University of California, Berkeley, Dept. of Transportation Engineering & Beijing Jiaotong University, Dept. of Transportation Engineering** <br/>
-Research Assistant to *Professor Mark Hansen & Professor Sida Luo* <br/>
+- **Research Assistant to *Professor Mark Hansen & Professor Sida Luo*** <br/>
 Dec. 2020 – Nov. 2022 <br/>
+University of California, Berkeley, Dept. of Transportation Engineering & Beijing Jiaotong University, Dept. of Transportation Engineering <br/>
 **Project**: Game Theoretical Analysis for a Two-city Economic System
 
-- ***IN* Beijing Jiaotong University, Dept. of Transportation Engineering** <br/>
-Research Assistant to *Professor Yizheng Wu* <br/>
+- **Research Assistant to *Professor Yizheng Wu*** <br/>
 Dec. 2021 – May. 2022	 <br/>
+Beijing Jiaotong University, Dept. of Transportation Engineering <br/>
 **Project**: Individual Particulate Matter Exposure for Urban Commuters
 
-- ***IN* Massachusetts Institute of Technology, Dept. of Civil Engineering** <br/>
-Research Assistant to *Professor Oral Buyukozturk* <br/>
+- **Research Assistant to *Professor Oral Buyukozturk*** <br/>
 Jul. 2021 – Aug. 2021 <br/>
-**Project**: Understanding Influence of Traffic Load on Bridges Using Finite Element Optimization Analysis
+Massachusetts Institute of Technology, Dept. of Civil Engineering <br/>
+**Project**: Impact of Traffic Load on CFRP-Reinforced Bridges Using Finite Element Optimization Analysis
 
-- ***IN* Beijing Jiaotong University, Dept. of Transportation Engineering** <br/>
-Research Assistant to *Professor Wei Guan* <br/>
+- **Research Assistant to *Professor Wei Guan*** <br/>
 Mar. 2021 – Jun. 2021 <br/>
-**Project**: Forecast of Beijing Public Transport Passenger Volume under the COVID-19
+Beijing Jiaotong University, Dept. of Transportation Engineering <br/>
+**Project**: Forecast of Beijing Public Transport Demand under the COVID-19
+
+- **Second Prize, 16th National Competition of Transport Science and Technology** <br/>
+**Project**: Ventilation Metamaterial Barrier for Traffic Noise Reduction
 
 For more info, click [HERE](/research/)
 
 ## Awards
-**Second Prize, 16th National Competition of Transport Science and Technology for University Students** <br/>
-**Project**: Ventilation Metamaterial Barrier for Traffic Noise Reduction
-*	Developed a metamaterial to achieve adequate control of low-frequency mechanical waves and solved the problem of noise pollution on traffic roads 
-*	Designed a new split tube resonator of double-sided noise reduction, ventilation, and no reflector 
-*	Applied local resonance mechanism to noise reduction, which combined theories in acoustics, structural mechanics, and road traffic
+* Departmental Scholarship (15000 dollars), University of California, Berkeley, 2022
+* Excellent Scholarship for Undergraduate Discipline Competition, Beijing Jiaotong University, 2021
+* University-Level Merit Scholarship, Beijing Jiaotong University, 2021
+* University-Level Merit Scholarship, Beijing Jiaotong University, 2020
+* University-Level Merit Scholarship, Beijing Jiaotong University, 2019
 
 ## Computer Skills
 **Proficient**:	Python, MATLAB, SUMO, Vissim, ArcGIS, Synchro, AutoCAD  <br/>
