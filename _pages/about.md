@@ -70,7 +70,7 @@ For more info, click [HERE](/research/)
 
 ## Awards
 * Departmental Scholarship (15000 dollars), University of California, Berkeley, 2022
-* Excellent Scholarship for Undergraduate Discipline Competition, Beijing Jiaotong University, 2021
+* Excellent Scholarship for Undergraduate Discipline Competition, Beijing Jiaotong University, 2022
 * University-Level Merit Scholarship, Beijing Jiaotong University, 2021
 * University-Level Merit Scholarship, Beijing Jiaotong University, 2020
 * University-Level Merit Scholarship, Beijing Jiaotong University, 2019
