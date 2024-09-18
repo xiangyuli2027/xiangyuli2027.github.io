@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiangyu Li. My research interest is Intelligent transportation systems, Reinforcement learning, Driving behavior, transportation economics
+Hi, I’m Xiangyu Li. I’m currently a second-year PhD student in Transportation Systems Analysis and Planning at Northwestern University. I hold a Master’s degree in Transportation Engineering from the University of California, Berkeley, and a Bachelor’s degree in Transportation Engineering from Beijing Jiaotong University. My research focuses on autonomous driving, urban mobility, traffic management, and public transportation systems, with a particular interest in advanced applications of deep learning and optimization techniques.
 
 ## Education
 **Doctor of Philosophy in Transportation Systems Analysis & Planning** <span style="float:right;">Sep. 2023 – Present</span>  <br/> 
