@@ -5,8 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
+## **Research Assistant to *Professor Hani S Mahmassani*** <br/>
+Dec. 2023 – Present <br/>
+Northwestern University, Transportation Center <br/>
+**Ongoing Project**: An Adaptive Longitudinal Driving Assistance System based on Reinforcement Learning
+> * Built a cyber-physical system to train an autonomous driving system that better aligns with human preferences
+> * Incorporated the Deep Deterministic Policy Gradient (DDPG) algorithm to optimize car-following behavior
+> * Collected the desired car-following patterns of 13 drivers to update the reward function of the DDPG algo-rithm
+> * The updated DDPG model outperformed LSTM, RNN and CACC in efficiency, comfort, fuel consumption, etc.
+> * The decreasing human takeover rate over time suggests that the system effectively captures human behavior
+
+
+-------
+
 ## **Research Assistant to *Professor Gabriel Gomes*** <br/>
-Aug. 2022 – Present <br/>
+Aug. 2022 – May. 2023 <br/>
 University of California, Berkeley, Dept. of Mechanical Engineering <br/>
 **Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
 > * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
@@ -17,7 +30,7 @@ University of California, Berkeley, Dept. of Mechanical Engineering <br/>
 -------
 
 ## **Research Assistant in *Intelligent Transport Systems lab*** <br/>
-May. 2022 – Present <br/>
+May. 2022 – Jun. 2023 <br/>
 Hong Kong Polytechnic University, Dept. of Electronic and Information Engineering <br/>
 **Ongoing project**: Cyber-Physical System and Reinforcement Learning-Enabled Autonomous Driving Behavior
 Connected and Autonomous Driving System
