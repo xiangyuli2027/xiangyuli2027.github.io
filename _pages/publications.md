@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. 104th Transportation Research Board Annual Meeting (Under review). [PDF](../files/TRB2024_DDPG_Final.pdf)   
+1. **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. 104th Transportation Research Board Annual Meeting (Under review). [pdf](../files/TRB2024_DDPG_Final.pdf)   
 2. ***Li, X.Y.***, Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review). [pdf](./../files/paper1.pdf)
 3. ***Li, X.Y.***, Cao, D., & Ho, I. Cyber-Physical System and Deep Reinforcement Learning-Enabled Driving Behavior Study. To be submitted to *Transportation Research Part C: Emerging Technologies*. [report](../files/report%20-%20Cyber-Physical%20System.pdf) [code](https://github.com/xiangyu-li-ucb/Cyber-Physical-System-and-Behavior-Study)
 4. ***Li, X.Y.***, Gomes, G., & Wu, Y.Z. Collaborative Traffic Signal Control and Path Recommendations Under PM2.5 Exposure Based on Reinforcement Learning. To be submitted to *Transportation Research Part C: Emerging Technologies*. [report](../files/report%20-%20Collaborative%20Simulation.pdf) [code](https://github.com/xiangyu-li-ucb/Collaborative-Simulation)
