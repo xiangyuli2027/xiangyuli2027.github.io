@@ -11,9 +11,9 @@ title                    : "Xiangyu Li"
 title_separator          : "-"
 name                     : &name "Xiangyu Li"
 description              : &description "Master candidate, Dept. of Civil and Environment Engineering, University of California, Berkeley, CA, USA."
-url                      : https://xiangyu-li-ucb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiangyu-li-nu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiangyu-li-ucb/xiangyu-li-ucb.github.io"
+repository               : "xiangyu-li-nu/xiangyu-li-nu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,11 +83,11 @@ author:
   name             : *name
   avatar           : "pic.jpg"
   bio              : *description
-  location         : "Berkeley, CA, USA"
+  location         : "Evanston, IL, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "xiangyu_li@berkeley.edu"
+  email            : "xiangyuli2027@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-**E-mail**: xiangyu_li@berkeley.edu <br/>
-**Address**: University of California, Berkeley, CA, US
+**E-mail**: xiangyuli2027@u.northwestern.edu <br/>
+**Address**: Northwestern University, Evanston, IL, USA
