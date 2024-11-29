@@ -5,6 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
+## **Research Assistant to *Professor Qi Zhu*** <br/>
+Jun. 2024 – Present <br/>
+Northwestern University, Dept. of Electrical and Computer Engineering <br/>
+**Ongoing Project**: Exploring Autonomous Vehicle Driving Behavior with LLM-Enhanced MSDC-RoBERTa Neural Network
+> * Extracted statistical, driving behavior, and dynamic features to represent the driving process multi-dimensionally.
+> * Utilized GPT-4 with one-shot learning to acquire prior knowledge extracting implicit features of driving behavior.
+> * Encoded prior knowledge text with the RoBERT model to obtain its modality representation.
+> * Extracted temporal features of driving behavior image modality using a multi-scale dilated convolutional network.
+> * Fused text and image modality features into a multimodal feature vector using a weighted attention mechanism.
+
+
+-------
+
 ## **Research Assistant to *Professor Hani S Mahmassani*** <br/>
 Dec. 2023 – Present <br/>
 Northwestern University, Transportation Center <br/>

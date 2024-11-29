@@ -12,6 +12,7 @@ Hi, I’m Xiangyu Li. I’m currently a second-year PhD student in Transportatio
 
 ## Education
 **Doctor of Philosophy in Transportation Systems Analysis & Planning** <span style="float:right;">Sep. 2023 – Present</span>  <br/> 
+**Master of Science in Computer Engineering** <span style="float:right;">Mar.2024 – Jun.2025 (Expected)</span>  <br/> 
 Northwestern University <br/>
 Evanston, IL, USA.
 *	*GPA*: 3.8/4.0
@@ -27,21 +28,26 @@ Berkeley, CA, USA.
 **Bachelor of Transportation Engineering** <span style="float:right;">Aug. 2018 – Jul. 2022</span>  <br/> 
 Beijing Jiaotong University, Beijing, China
 *	*GPA*: 3.86/4.0, Rank 7/383 (Top 2%)
-*	*Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), University Physics (91/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), Traf-fic Engineering Theory (92/100), Road and Highway Engineering (90/100), Engineering Mechanics (90/100)
+*	*Core Courses*: Operational Research in Management (95/100), Traffic Safety Engineering (97/100), Urban Public Transportation (95/100), Traffic Management and Control (92/100), System Engineering (4.0/4.0)
 
 
 ## Publication & Manuscripts
-1. **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. 104th Transportation Research Board Annual Meeting (Under review). [pdf](../files/TRB2024_DDPG_Final.pdf)   
-2. ***Li, X.Y.***, Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review). [pdf](./../files/paper1.pdf)
-3. ***Li, X.Y.***, Cao, D., & Ho, I. Cyber-Physical System and Deep Reinforcement Learning-Enabled Driving Behavior Study. To be submitted to *Transportation Research Part C: Emerging Technologies*. [report](../files/report%20-%20Cyber-Physical%20System.pdf) [code](https://github.com/xiangyu-li-ucb/Cyber-Physical-System-and-Behavior-Study)
-4. ***Li, X.Y.***, Gomes, G., & Wu, Y.Z. Collaborative Traffic Signal Control and Path Recommendations Under PM2.5 Exposure Based on Reinforcement Learning. To be submitted to *Transportation Research Part C: Emerging Technologies*. [report](../files/report%20-%20Collaborative%20Simulation.pdf) [code](https://github.com/xiangyu-li-ucb/Collaborative-Simulation)
-5. ***Li, X.Y.***, Wang, Y.X., & Wu, Y.Z. Commuter Exposure to Particulate Matter in Four Transportation Modes in Beijing, China.  To be submitted to *Working Paper*. [report](./../files/PPT1.pdf) [code](https://github.com/xiangyu-li-ucb/Individual-Particulate-Matter-Exposure)
-6. Luo, S.D., ***Li, X.Y.***, Wu, X.Y., Yin, Z.W., Xu S, & Kang, L.J. (2022). Modeling resident choices of residence, work locations and commutes in a two-city system for optimal urban design. *Journal of Tsinghua University (Science and Technology)*, 62(7), 1186-1194. [pdf](./../files/paper2.pdf)
-7. ***Li, X.Y.*** Finite Element Optimization Analysis of CFRP Reinforced Box Girder Bridge Under Traffic Load. In *2021 4th International Symposium on Traffic Transportation and Civil Architecture (ISTTCA)* (pp. 89-94). IEEE. [pdf](./../files/paper3.pdf)
-8. ***Li, X.Y.***, & Xie, M. Short-term passenger volume forecast and model analysis of Beijing public transport. In *Fifth International Conference on Traffic Engineering and Transportation System (ICTETS 2021)* (Vol. 12058, pp. 1423-1429). SPIE. [pdf](./../files/paper4.pdf)
+[1] **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. To be submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](../files/TRB2024_DDPG_Final.pdf)  
+[2] **Li, X.Y.**, Cheng, X., & Zhu, Q. Large Language Model-Enhanced Multi-Level Feature Fusion Network for Autonomous Driving Behavior Classification. IEEE Transactions on Intelligent Transportation Systems (Under review). [PDF](../files/ICDE_av_llms.pdf)  
+[3] **Li, X.Y.**, Yin, Z.W., Luo, S.D., & Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. Transportation Research Part E: Logistics and Transportation Review (Under review). [PDF](./../files/paper1.pdf)
+[4] **Li, X.Y.**, Cao, D., & Ho, I. Deep Imitation Learning for Autonomous Driving based on Cyber-Physical System. Working Paper. [Report](../files/report%20-%20Cyber-Physical%20System.pdf) [Code](https://github.com/xiangyu-li-ucb/Cyber-Physical-System-and-Behavior-Study)
+[5] **Li, X.Y.**, Gomes, G., & Wu, Y.Z. Collaborative Traffic Signal Control and Path Recommendations Considering PM2.5 Exposure Using Reinforcement Learning. Working Paper. [Report](../files/report%20-%20Collaborative%20Simulation.pdf) [Code](https://github.com/xiangyu-li-ucb/Collaborative-Simulation)
+[6] Luo, S.D., **Li, X.Y.**, Wu, X.Y., Yin, Z.W., Xu, S., & Kang, L.J. (2022). Modeling Resident Choices of Residence, Work Locations and Commutes in a Two-city System for Optimal Urban Design. Journal of Tsinghua University (Science and Technology), 62(7), 1186-1194. [PDF](./../files/paper2.pdf)
+[7] **Li, X.Y.** Finite Element Optimization Analysis of CFRP Reinforced Box Girder Bridge Under Traffic Load. In 2021 4th International Symposium on Traffic Transportation and Civil Architecture (pp. 89-94). IEEE. [PDF](./../files/paper3.pdf)
+[8] **Li, X.Y.**, & Xie, M. Short-term passenger volume forecast and model analysis of Beijing public transport. In Fifth International Conference on Traffic Engineering and Transportation System (ICTETS 2021) (Vol. 12058, pp. 1423-1429). SPIE. [PDF](./../files/paper4.pdf)
 
 
 ## Research Experience
+- **Research Assistant to *Professor Qi Zhu*** <br/>
+Jun. 2024 – Present <br/>
+Northwestern University, Dept. of Electrical and Computer Engineering <br/>
+**Ongoing Project**: Exploring Autonomous Vehicle Driving Behavior with LLM-Enhanced MSDC-RoBERTa Neural Network
+
 - **Research Assistant to *Professor Hani S Mahmassani*** <br/>
 Dec. 2023 – Present <br/>
 Northwestern University, Transportation Center <br/>
@@ -90,4 +96,4 @@ For more info, click [HERE](/research/)
 
 ## Computer Skills
 **Proficient**:	Python, MATLAB, SUMO, Carla, Vissim, ArcGIS, Synchro   <br/>
-**Familiar**:	C/C++, TransCAD
+**Familiar**:	C/C++, Stata, R
