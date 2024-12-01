@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Xiangyu Li. I’m currently a second-year PhD student in Transportation Systems Analysis and Planning at Northwestern University. I hold a Master’s degree in Transportation Engineering from the University of California, Berkeley, and a Bachelor’s degree in Transportation Engineering from Beijing Jiaotong University. My research focuses on autonomous driving, urban mobility, traffic management, and public transportation systems, with a particular interest in advanced applications of deep learning and optimization techniques.
+Hello, I'm Xiangyu Li, a second-year Ph.D. student in Transportation Engineering at Northwestern University (NU) under the guidance of Prof. Hani Mahmassani. Concurrently, I'm pursuing a Master of Science in Computer Engineering with Prof. Qi Zhu, expecting to graduate in June 2025. I hold a Master's degree in Transportation Engineering from the University of California, Berkeley (UCB) and a Bachelor's degree from Beijing Jiaotong University. My research focuses on designing adaptive, predictive, and generative algorithms by leveraging advanced optimization and AI techniques to enhance transportation systems.
 
 ## Education
 **Doctor of Philosophy in Transportation Systems Analysis & Planning** <span style="float:right;">Sep. 2023 – Present</span>  <br/> 
@@ -16,7 +16,7 @@ Hi, I’m Xiangyu Li. I’m currently a second-year PhD student in Transportatio
 Northwestern University <br/>
 Evanston, IL, USA.
 *	*GPA*: 3.8/4.0
-*	*Core Courses*: Deep Reinforcement Learning (4.0/4.0), Deep Learning: FAA (4.0/4.0), Transportation Systems Analysis (4.0/4.0, rank 1/20), Transportation Systems Operations (4.0/4.0), Transportation Systems Planning and Man-agement (4.0/4.0), Travel Demand Analysis and Forecasting (4.0/4.0), Infrastructure System Analysis (4.0/4.0), Infrastructure System Analysis (4.0/4.0), Introduction to Applied Econometrics (4.0/4.0)
+*	*Core Courses*: Deep Reinforcement Learning (4.0/4.0), Deep Learning: Foundations, Applications, and Algorithms (4.0/4.0), Transportation Systems Analysis (4.0/4.0, rank 1/20), Transportation Systems Operations (4.0/4.0), Transportation Systems Planning and Management (4.0/4.0), Travel Demand Analysis and Forecasting (4.0/4.0), Infrastructure System Analysis (4.0/4.0), Introduction to Applied Econometrics (4.0/4.0)
 
 **Master of Transportation Engineering** <span style="float:right;">Aug. 2022 – Jul. 2023</span>  <br/> 
 University of California, Berkeley <br/>
@@ -32,10 +32,10 @@ Beijing Jiaotong University, Beijing, China
 
 
 ## Publication & Manuscripts
-1. **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. To be submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](../files/TRB2024_DDPG_Final.pdf)
-2. **Li, X.Y.**, Cheng, X., & Zhu, Q. Large Language Model-Enhanced Multi-Level Feature Fusion Network for Autonomous Driving Behavior Classification. IEEE Transactions on Intelligent Transportation Systems (Under review). [PDF](../files/ICDE_av_llms.pdf)
+1. **Li, X.Y.**, Liu, P.Y., Mahmassani, H.S., & Chen, Y. An Adaptive Longitudinal Driving Assistance System (ALDAS) based on Reinforcement Learning. To be submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](../files/TRB2024_DDPG_Final.pdf) [Code](../files/ALDAS.zip)
+2. **Li, X.Y.**, Cheng, X., & Zhu, Q. Large Language Model-Enhanced Multi-Level Feature Fusion Network for Autonomous Driving Behavior Classification. IEEE Transactions on Intelligent Transportation Systems (Under review). [PDF](../files/ICDE_av_llms.pdf) [Code](../files/Large_Language_Model-Enhanced_Multi-Level_Feature_Fusion_Network_for_AutonomousDriving_Behavior_Classification.zip)
 3. **Li, X.Y.**, Yin, Z.W., Luo, S.D., & Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. Transportation Research Part E: Logistics and Transportation Review (Under review). [PDF](./../files/paper1.pdf)
-4. **Li, X.Y.**, Cao, D., & Ho, I. Deep Imitation Learning for Autonomous Driving based on Cyber-Physical System. Working Paper. [Report](../files/report%20-%20Cyber-Physical%20System.pdf) [Code](https://github.com/xiangyu-li-ucb/Cyber-Physical-System-and-Behavior-Study)
+4. **Li, X.Y.**, Jiao, R.C., Shi, X.Y., & Zhu, Q. Reinforcement Learning-Enhanced Simulated Driving Strategies with Large Language Model. Working Paper. [Report](../files/report%20-%20Cyber-Physical%20System.pdf) [Code](../FILES/Reinforcement_Leaning-Enhanced_Simulated_Driving Strategies_with_Large_Language_Models.zip)
 5. **Li, X.Y.**, Gomes, G., & Wu, Y.Z. Collaborative Traffic Signal Control and Path Recommendations Considering PM2.5 Exposure Using Reinforcement Learning. Working Paper. [Report](../files/report%20-%20Collaborative%20Simulation.pdf) [Code](https://github.com/xiangyu-li-ucb/Collaborative-Simulation)
 6. Luo, S.D., **Li, X.Y.**, Wu, X.Y., Yin, Z.W., Xu, S., & Kang, L.J. (2022). Modeling Resident Choices of Residence, Work Locations and Commutes in a Two-city System for Optimal Urban Design. Journal of Tsinghua University (Science and Technology), 62(7), 1186-1194. [PDF](./../files/paper2.pdf)
 7. **Li, X.Y.** Finite Element Optimization Analysis of CFRP Reinforced Box Girder Bridge Under Traffic Load. In 2021 4th International Symposium on Traffic Transportation and Civil Architecture (pp. 89-94). IEEE. [PDF](./../files/paper3.pdf)
@@ -47,6 +47,11 @@ Beijing Jiaotong University, Beijing, China
 Jun. 2024 – Present <br/>
 Northwestern University, Dept. of Electrical and Computer Engineering <br/>
 **Ongoing Project**: Exploring Autonomous Vehicle Driving Behavior with LLM-Enhanced MSDC-RoBERTa Neural Network
+
+- **Research Assistant to *Professor Qi Zhu*** <br/>
+Oct. 2024 – Present <br/>
+Northwestern University, Dept. of Electrical and Computer Engineering <br/>
+**Ongoing Project**: Enhancing CAD Generation Accuracy Using LLMs with RAG and Multi-Modal Data Integration
 
 - **Research Assistant to *Professor Hani S Mahmassani*** <br/>
 Dec. 2023 – Present <br/>

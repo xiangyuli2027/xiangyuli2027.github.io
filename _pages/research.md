@@ -18,6 +18,17 @@ Northwestern University, Dept. of Electrical and Computer Engineering <br/>
 
 -------
 
+## **Research Assistant to *Professor Qi Zhu*** <br/>
+Oct. 2024 – Present <br/>
+Northwestern University, Dept. of Electrical and Computer Engineering <br/>
+**Ongoing Project**: Enhancing CAD Generation Accuracy Using LLMs with RAG and Multi-Modal Data Integration
+> * Designed a multi-component CAD generation system using large language model (LLMs).
+> * leveraged Vision-Language Models (VLMs) alongside LLMs to generate precise captions for ABC dataset.
+> * Incorporated Retrieval-Augmented Generation (RAG) to handle out-of-distribution CAD generation cases.
+> * Created a paired dataset to train and fine-tune LLMs with high-quality ZOO data.
+
+-------
+
 ## **Research Assistant to *Professor Hani S Mahmassani*** <br/>
 Dec. 2023 – Present <br/>
 Northwestern University, Transportation Center <br/>
