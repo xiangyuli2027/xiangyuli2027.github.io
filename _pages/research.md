@@ -6,26 +6,27 @@ author_profile: true
 ---
 
 ## **Research Assistant to *Professor Qi Zhu*** <br/>
-Jun. 2024 – Present <br/>
+Sep. 2024 – Present <br/>
 Northwestern University, Dept. of Electrical and Computer Engineering <br/>
-**Ongoing Project**: Exploring Autonomous Vehicle Driving Behavior with LLM-Enhanced MSDC-RoBERTa Neural Network
-> * Extracted statistical, driving behavior, and dynamic features to represent the driving process multi-dimensionally.
-> * Utilized GPT-4 with one-shot learning to acquire prior knowledge extracting implicit features of driving behavior.
-> * Encoded prior knowledge text with the RoBERT model to obtain its modality representation.
-> * Extracted temporal features of driving behavior image modality using a multi-scale dilated convolutional network.
-> * Fused text and image modality features into a multimodal feature vector using a weighted attention mechanism.
+**Ongoing Project**: Self-play Makes Large Language Model a Generalizable Safe and Strategic Driver.
+> * Connect LLM with a simulation environment to allow LLM to control vehicles based on prompt and responses
+> * Generate prompt to describe driving situation and let LLM to make decisions
+> * Using LLM’s decision and reward to fine tune LLM for reward-maximization using reinforcement learning
+> * Evaluate LLM’s driving decision in various driving situations described by texts for generalizability
 
 
 -------
 
-## **Research Assistant to *Professor Qi Zhu*** <br/>
-Oct. 2024 – Present <br/>
-Northwestern University, Dept. of Electrical and Computer Engineering <br/>
-**Ongoing Project**: Enhancing CAD Generation Accuracy Using LLMs with RAG and Multi-Modal Data Integration
-> * Designed a multi-component CAD generation system using large language model (LLMs).
-> * leveraged Vision-Language Models (VLMs) alongside LLMs to generate precise captions for ABC dataset.
-> * Incorporated Retrieval-Augmented Generation (RAG) to handle out-of-distribution CAD generation cases.
-> * Created a paired dataset to train and fine-tune LLMs with high-quality ZOO data.
+## **Research Assistant to *Professor Ying Chen*** <br/>
+May. 2024 – Oct. 2024 <br/>
+Northwestern University, Transportation Center <br/>
+**Ongoing Project**: LLM-Enhanced Multi-Level Feature Fusion Network for Autonomous Driving Behavior Classification
+> * Defined 30+ features from time-series autonomous driving data to characterize the driving behavior.
+> * Utilized GPT-4 with dedicated prompt based on extracted features to obtain summary texts of driving behavior.
+> * Encoded summary texts with the RoBERT model to obtain its embedding.
+> * Obtained time-series driving behavior image embeddings using a multi-scale dilated convolutional network.
+> * Fused text and image embeddings into a multimodal feature vector using a weighted attention mechanism.
+> * Outperformed benchmark models (e.g., GAF-ViT) by 2% in accuracy and 5% in F1-score
 
 -------
 
